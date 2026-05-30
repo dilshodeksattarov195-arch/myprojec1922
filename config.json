@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "emailsync",
+        "uuid": 16723322,
+        "checksum": "32lbtr"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
